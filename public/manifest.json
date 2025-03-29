@@ -1,0 +1,20 @@
+{
+  "name": "Indonesian National Parks Ranking",
+  "short_name": "Parks Ranking",
+  "description": "Vote for your favorite Indonesian National Parks and see how they rank based on the ELO rating system.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "/globe.svg",
+      "sizes": "48x48",
+      "type": "image/svg+xml"
+    }
+  ],
+  "lang": "id",
+  "dir": "ltr",
+  "orientation": "portrait-primary",
+  "categories": ["travel", "nature", "education"]
+}
